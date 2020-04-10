@@ -2,9 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222e3d45-0686-4ac4-ba9c-0adbd1f944ed" name="Default Changelist" comment=" config.properties">
-      <change afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bitrix24/Utilities/BrowserUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/ConfigurationReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bitrix24/Utilities/ConfigurationReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/DateTimeUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bitrix24/Utilities/DateTimeUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bitrix24/Utilities/Driver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/DriverFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bitrix24/Utilities/DriverFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Utilities/ExcelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/bitrix24/Utilities/ExcelUtil.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,15 +44,15 @@
       <recent name="Utilities" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
+  <component name="ServiceViewManager">
+    <option name="viewStates">
       <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
       </list>
     </option>
   </component>
@@ -69,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -84,6 +91,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="569" y="357" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.900@0.0.1440.900" timestamp="1586547750400" />
+    <state x="309" y="163" key="Vcs.Push.Dialog.v2" timestamp="1586562290602">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="309" y="163" key="Vcs.Push.Dialog.v2/0.23.1440.797@0.23.1440.797" timestamp="1586562290602" />
     <state x="470" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1586544294861">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
