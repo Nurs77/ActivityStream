@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222e3d45-0686-4ac4-ba9c-0adbd1f944ed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +18,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
   </component>
@@ -63,13 +69,22 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="639" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586716984744">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="568" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586741271242">
+      <screen x="0" y="23" width="1280" height="773" />
     </state>
+    <state x="568" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.773@0.23.1280.773" timestamp="1586741271242" />
     <state x="639" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1586716984744" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1586742850182">
+      <screen x="0" y="0" width="1280" height="796" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.796@0.0.1280.796" timestamp="1586742850182" />
     <state x="470" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1586544294861">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="470" y="264" key="com.intellij.ide.util.TipDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1586544294861" />
+    <state x="305" y="120" width="670" height="676" key="search.everywhere.popup" timestamp="1586742064027">
+      <screen x="0" y="0" width="1280" height="796" />
+    </state>
+    <state x="305" y="120" width="670" height="676" key="search.everywhere.popup/0.0.1280.796@0.0.1280.796" timestamp="1586742064027" />
   </component>
 </project>
