@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="222e3d45-0686-4ac4-ba9c-0adbd1f944ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/LogInPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/utilities/ConfigurationReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/utilities/Driver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +74,10 @@
     </state>
     <state x="568" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.773@0.23.1280.773" timestamp="1586741271242" />
     <state x="639" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1586716984744" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1586742850182">
+      <screen x="0" y="0" width="1280" height="796" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.796@0.0.1280.796" timestamp="1586742850182" />
     <state x="470" y="264" key="com.intellij.ide.util.TipDialog" timestamp="1586544294861">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
