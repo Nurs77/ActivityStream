@@ -81,7 +81,6 @@ public class TaskChecklist extends AbstractPageBase {
         wait.until(ExpectedConditions.visibilityOf(activityStream.thingsToDo));
         activityStream.thingsToDo.sendKeys("sunshine");
         activityStream.addBtn.click();
-        BrowserUtils.wait(2);
         Assert.assertTrue(activityStream.xmark.isEnabled());
         activityStream.xmark.click();
     }
