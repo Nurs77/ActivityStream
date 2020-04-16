@@ -42,7 +42,8 @@ public class LoginPage extends AbstractBasePage {
     }
     public void login(){
         this.username.sendKeys(ConfigurationReader.getProperty("marketing1"));
-        this.password.sendKeys(ConfigurationReader.getProperty("password"), Keys.ENTER);
+        this.password.sendKeys(ConfigurationReader.getProperty("password"),
+                Keys.ENTER);
         BrowserUtils.waitForPageToLoad(10);
         BrowserUtils.wait(3);
     }

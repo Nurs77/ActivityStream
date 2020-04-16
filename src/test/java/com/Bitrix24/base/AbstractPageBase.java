@@ -21,7 +21,7 @@ public abstract class AbstractPageBase {
     @BeforeMethod
     public void setUpMethod(){
         driver = Driver.getDriver();
-        driver.get(ConfigurationReader.getProperty("qa1"));
+        driver.get(ConfigurationReader.getProperty("url"));
         driver.manage().window().maximize();
         wait = new WebDriverWait(driver, 10);
         logInPage = new LogInPage();

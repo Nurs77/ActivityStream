@@ -3,7 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="222e3d45-0686-4ac4-ba9c-0adbd1f944ed" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/base/AbstractPageBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/MainPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/MainPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,21 +125,23 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new update" />
     <option name="LAST_COMMIT_MESSAGE" value="new update" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="568" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586741271242">
-      <screen x="0" y="23" width="1280" height="773" />
+    <state x="639" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586988827166">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="639" y="340" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1586988827166" />
     <state x="568" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1280.773@0.23.1280.773" timestamp="1586741271242" />
     <state x="639" y="339" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.23.1440.877@0.23.1440.877" timestamp="1586716984744" />
     <state x="201" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586984309711">
@@ -167,6 +172,10 @@
     </state>
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.796@0.0.1280.796" timestamp="1586813366810" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.773@0.23.1280.773" timestamp="1586807192685" />
+    <state x="341" y="105" key="Maven.ArtifactSearchDialog" timestamp="1587005926656">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="341" y="105" key="Maven.ArtifactSearchDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587005926656" />
     <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1586743222398">
       <screen x="0" y="0" width="1280" height="796" />
     </state>

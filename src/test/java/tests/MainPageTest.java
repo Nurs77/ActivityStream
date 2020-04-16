@@ -1,19 +1,24 @@
 package tests;
 
 
+
+
+
 import org.testng.annotations.Test;
+
+
 import pages.LoginPage;
 import pages.MainPage;
-import utilities.BrowserUtils;
+
 
 public class MainPageTest extends AbstractTestBase {
 
-    LoginPage loginPage = new LoginPage();
+ LoginPage loginPage = new LoginPage();
     MainPage messagePage = new MainPage();
 
     @Test
     public void Comment() {
-        loginPage.login();
+loginPage.login();
 
         messagePage.Comment();
         messagePage.enterMessageFrame();
