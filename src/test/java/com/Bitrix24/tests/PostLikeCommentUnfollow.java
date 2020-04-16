@@ -16,8 +16,8 @@ public class PostLikeCommentUnfollow extends AbstractPageBase {
 
     /**
      * Author : Nursultan Tolebpergen
-     * User Story 8:
-     * As a user I should be able to request a Leave Approval: selecting start and end date, select Absence type, entering reason
+     * User Story :
+     *
      *
      *
      */

@@ -36,24 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="TestNG.PostLikeCommentUnfollow.leaveApproval">
-    <configuration name="EventCreation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ActivityStreamClone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Bitrix24.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.Bitrix24.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.Bitrix24.tests.EventCreation" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.PostLikeCommentUnfollow.likeCommentUnfollow">
     <configuration name="EventCreation.uploadingLinkPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ActivityStreamClone" />
       <extension name="coverage">
@@ -72,7 +55,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MainPageTest.Comment" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ActivityStreamClone" />
       <extension name="coverage">
         <pattern>
@@ -82,7 +65,8 @@
       </extension>
       <option name="PACKAGE_NAME" value="tests" />
       <option name="MAIN_CLASS_NAME" value="tests.MainPageTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="METHOD_NAME" value="Comment" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -100,6 +84,24 @@
       <option name="PACKAGE_NAME" value="com.Bitrix24.tests" />
       <option name="MAIN_CLASS_NAME" value="com.Bitrix24.tests.PostLikeCommentUnfollow" />
       <option name="METHOD_NAME" value="leaveApproval" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostLikeCommentUnfollow.likeCommentUnfollow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActivityStreamClone" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bitrix24.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Bitrix24.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Bitrix24.tests.PostLikeCommentUnfollow" />
+      <option name="METHOD_NAME" value="likeCommentUnfollow" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -127,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PostLikeCommentUnfollow.likeCommentUnfollow" />
+        <item itemvalue="TestNG.MainPageTest.Comment" />
         <item itemvalue="TestNG.PostLikeCommentUnfollow.leaveApproval" />
         <item itemvalue="TestNG.EventCreation.uploadingLinkPositiveTest" />
         <item itemvalue="TestNG.TaskChecklist.createChecklist" />
-        <item itemvalue="TestNG.EventCreation (1)" />
-        <item itemvalue="TestNG.MainPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -192,28 +194,28 @@
       <screen x="0" y="0" width="1280" height="796" />
     </state>
     <state x="273" y="0" width="733" height="796" key="CommitChangelistDialog2/0.0.1280.796@0.0.1280.796" timestamp="1586743181138" />
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1587077460946">
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1587077769073">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077460946" />
+    <state width="1398" height="230" key="GridCell.Tab.0.bottom/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077769073" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.0.1280.796@0.0.1280.796" timestamp="1586813366811" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.773@0.23.1280.773" timestamp="1586807192686" />
-    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1587077460943">
+    <state width="1398" height="230" key="GridCell.Tab.0.center" timestamp="1587077769071">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.center/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077460943" />
+    <state width="1398" height="230" key="GridCell.Tab.0.center/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077769071" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.0.1280.796@0.0.1280.796" timestamp="1586813366809" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.773@0.23.1280.773" timestamp="1586807192684" />
-    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1587077460941">
+    <state width="1398" height="230" key="GridCell.Tab.0.left" timestamp="1587077769070">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.left/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077460941" />
+    <state width="1398" height="230" key="GridCell.Tab.0.left/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077769070" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.0.1280.796@0.0.1280.796" timestamp="1586813366808" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.773@0.23.1280.773" timestamp="1586807192682" />
-    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1587077460945">
+    <state width="1398" height="230" key="GridCell.Tab.0.right" timestamp="1587077769072">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1398" height="230" key="GridCell.Tab.0.right/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077460945" />
+    <state width="1398" height="230" key="GridCell.Tab.0.right/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587077769072" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.0.1280.796@0.0.1280.796" timestamp="1586813366810" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.773@0.23.1280.773" timestamp="1586807192685" />
     <state x="341" y="105" key="Maven.ArtifactSearchDialog" timestamp="1587005926656">
