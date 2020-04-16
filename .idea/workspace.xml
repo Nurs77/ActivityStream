@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+
     <list default="true" id="222e3d45-0686-4ac4-ba9c-0adbd1f944ed" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/tests/PostLikeCommentUnfollow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/ActivityStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/pages/ActivityStream.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Bitrix24/utilities/BrowserUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Bitrix24/utilities/BrowserUtils.java" afterDir="false" />
+
+>>>>>>> 127a10f78a2f06c0b97adf1b0cb4c7225b7319c8
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +24,8 @@
         <option value="Class" />
       </list>
     </option>
+
+
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -36,8 +44,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="TestNG.PostLikeCommentUnfollow.likeCommentUnfollow">
     <configuration name="EventCreation.uploadingLinkPositiveTest" type="TestNG" temporary="true" nameIsGenerated="true">
+=======
+
+
+  <component name="RunManager" selected="TestNG.EventCreation.uploadingLinkPositiveTest">
+    <configuration name="EventCreation (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+>>>>>>> 127a10f78a2f06c0b97adf1b0cb4c7225b7319c8
       <module name="ActivityStreamClone" />
       <extension name="coverage">
         <pattern>
@@ -134,6 +149,13 @@
         <item itemvalue="TestNG.PostLikeCommentUnfollow.leaveApproval" />
         <item itemvalue="TestNG.EventCreation.uploadingLinkPositiveTest" />
         <item itemvalue="TestNG.TaskChecklist.createChecklist" />
+<<<<<<< HEAD
+=======
+        <item itemvalue="TestNG.EventCreation (1)" />
+        <item itemvalue="TestNG.MainPageTest" />
+        <item itemvalue="TestNG.EventCreation" />
+
+>>>>>>> 127a10f78a2f06c0b97adf1b0cb4c7225b7319c8
       </list>
     </recent_temporary>
   </component>
@@ -185,8 +207,10 @@
     <state x="201" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1586984309711">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
+
     <state x="201" y="336" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1586984309711" />
     <state x="541" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587006654331">
+
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="541" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587006654331" />
