@@ -1,43 +1,40 @@
 package com.Bitrix24.base;
 
-import com.Bitrix24.pages.ActivityStream;
-import com.Bitrix24.pages.LogInPage;
-import com.Bitrix24.utilities.ConfigurationReader;
-import com.Bitrix24.utilities.Driver;
-import org.openqa.selenium.JavascriptExecutor;
+;
+import org.openqa.selenium.By;
+
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
+
+import utilities.BrowserUtils;
+import utilities.Driver;
 
 public abstract class AbstractPageBase {
-    protected WebDriver driver;
-    protected WebDriverWait wait;
-    protected LogInPage logInPage;
-    protected ActivityStream activityStream;
-    protected JavascriptExecutor js;
+    protected WebDriver driver = Driver.getDriver();
+    protected WebDriverWait wait = new WebDriverWait(driver, 15);
 
-
-    @BeforeMethod
-    public void setUpMethod(){
-        driver = Driver.getDriver();
-        driver.get(ConfigurationReader.getProperty("url"));
-        driver.manage().window().maximize();
-        wait = new WebDriverWait(driver, 10);
-        logInPage = new LogInPage();
-        activityStream = new ActivityStream();
-        js = (JavascriptExecutor) driver;
-
-    }
-    @AfterMethod
-    public void tearDownMethod() {
-
-       Driver.closeDriver();
+    public AbstractPageBase() {
+        PageFactory.initElements(driver, this);
     }
 
+    public void navigateTo(String tabName) {
 
-
-
-
-
+        String tabNameXpath = "//span[text()='"+ tabName + "']";
+        WebElement tabElement = driver.findElement(By.xpath(tabNameXpath));
+        wait.until(ExpectedConditions.elementToBeClickable(tabElement));
+        tabElement.click();
+        BrowserUtils.wait(3);
+    }
 }
+
+
+
+
+
+
+
+
+

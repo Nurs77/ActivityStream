@@ -1,6 +1,7 @@
 package pages;
 
-import Utilities.Driver;
+
+import com.bitrix24.Utilities.Driver;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
