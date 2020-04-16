@@ -67,6 +67,56 @@ public class ActivityStream {
     @FindBy(xpath = "//div[@class='task-checklist-title']/following-sibling::*/*[4]//span[4]")
     public WebElement xmark;
 
+//    @FindBy(xpath = "//div[@id='left-menu-more-btn']//span[contains(text(),'More...')]")
+//    public WebElement moreBtn;
+//
+//    @FindBy(xpath = "//li[@id='bx_left_menu_menu_bizproc_sect']//span[contains(text(),'Workflows')]")
+//    public WebElement workflowBtn;
+//
+//    @FindBy(xpath = "//span[contains(text(),'Workflows in Activity Stream')]")
+//    public WebElement workflowInActivity;
+//
+//    @FindBy(xpath = "//a[contains(text(),'Leave Approval')]")
+//    public WebElement leaveApproval;
+//
+//@FindBy(xpath = "//span[contains(text(),'Add')]")
+//    public WebElement addLeave;
+//
+//@FindBy(xpath = "//tr//tr//tr//tr[2]//td[2]//img[1]")
+//    public WebElement startDate;
+//@FindBy(xpath = "//tr[3]//td[2]//img[1]")
+//    public WebElement endDate;
+//@FindBy(xpath = "//a[contains(text(),'15')]")
+//    public WebElement anyStartDate;
+//@FindBy(xpath = "//tr[3]//td[2]//img[1]")
+//    public WebElement anyEndDate;
+//@FindBy(xpath = "//select[@name='PROPERTY_88']")
+//    public WebElement absenceType;
+//@FindBy(xpath = "//option[contains(text(),'Absent without reason or official leave')]")
+//    public WebElement anyReason;
+//@FindBy(xpath = "//textarea[@name='PREVIEW_TEXT']")
+//    public WebElement reasonText;
+//@FindBy(xpath = "//input[@name='save']")
+//    public WebElement btnSave;
+
+    @FindBy(linkText = "Like")
+    public WebElement likeBtn;
+    @FindBy(linkText = "Comment")
+    public WebElement commentBtn;
+    @FindBy(tagName = "body")
+    public WebElement body;
+    @FindBy(className = "feed-add-post-buttons")
+    public WebElement sendBtn;
+
+    @FindBy(linkText = "Unfollow")
+    public WebElement unfollowBtn;
+
+    @FindBy(className = "feed-comments-block")
+    public WebElement commentSection;
+
+
+
+
 
 
 
