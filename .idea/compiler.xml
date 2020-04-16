@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ActivityStream1" />
+        <module name="ActivityStreamClone" />
+        <module name="ActivityStream." />
         <module name="ActivityStream" />
       </profile>
     </annotationProcessing>
