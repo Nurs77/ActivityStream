@@ -33,26 +33,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="TestNG.EventCreation.uploadingLinkPositiveTest">
+  <component name="RunManager" selected="TestNG.TestCase_11_PageTest">
     <configuration name="EventCreation (1)" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ActivityStreamClone" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Bitrix24.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.Bitrix24.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.Bitrix24.tests.EventCreation" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EventCreation" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ActivityStream." />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.Bitrix24.tests.*" />
@@ -121,13 +104,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCase_11_PageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ActivityStream" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bitrix24.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Bitrix24.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.Bitrix24.tests.TestCase_11_PageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestCase_11_PageTest" />
         <item itemvalue="TestNG.EventCreation.uploadingLinkPositiveTest" />
         <item itemvalue="TestNG.TaskChecklist.createChecklist" />
         <item itemvalue="TestNG.EventCreation (1)" />
         <item itemvalue="TestNG.MainPageTest" />
-        <item itemvalue="TestNG.EventCreation" />
       </list>
     </recent_temporary>
   </component>
@@ -190,9 +190,10 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="541" y="197" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/-1241.-1057.1920.1057/0.23.1440.877@0.23.1440.877" timestamp="1587006654331" />
-    <state x="273" y="0" width="733" height="796" key="CommitChangelistDialog2" timestamp="1586743181138">
-      <screen x="0" y="0" width="1280" height="796" />
+    <state x="273" y="0" width="740" height="680" key="CommitChangelistDialog2" timestamp="1587079195484">
+      <screen x="0" y="0" width="1280" height="680" />
     </state>
+    <state x="273" y="0" width="740" height="680" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1587079195484" />
     <state x="273" y="0" width="733" height="796" key="CommitChangelistDialog2/0.0.1280.796@0.0.1280.796" timestamp="1586743181138" />
     <state width="1398" height="230" key="GridCell.Tab.0.bottom" timestamp="1587066858809">
       <screen x="0" y="23" width="1440" height="877" />

@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ActivityStream1" />
-        <module name="ActivityStream" />
-        <module name="ActivityStream." />
         <module name="ActivityStreamClone" />
+        <module name="ActivityStream." />
+        <module name="ActivityStream" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
